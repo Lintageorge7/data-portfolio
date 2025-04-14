@@ -8,7 +8,7 @@ I have a strong background in IT operations and technical support and am current
 
 ## Featured Projects
 
-### 1. [Power BI - Data Manipulation and Reporting]([./Data manipulation project.pbix/](https://github.com/Lintageorge7/data-portfolio/blob/main/Data%20manipulation%20project.pbix)) 
+### 1. Power BI - Data Manipulation and Reporting([./Data manipulation project.pbix/](https://github.com/Lintageorge7/data-portfolio/blob/main/Data%20manipulation%20project.pbix)) 
 Examine the data in such a way that they can accurately assess their business performance.
 The aim is to construct a consolidated and interactive Power BI report that will allow Zomato to quickly assess the required data.. 
 Tools used: Power BI, Excel.
